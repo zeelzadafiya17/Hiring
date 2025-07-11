@@ -1,0 +1,20 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="visserGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#60a5fa"/>
+      <stop offset="50%" style="stop-color:#3b82f6"/>
+      <stop offset="100%" style="stop-color:#1d4ed8"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Stylized V/checkmark inspired by VISSER logo -->
+  <path d="M15 35 Q25 20 40 25 Q55 30 70 20 Q80 15 85 25 Q90 35 80 45 Q65 60 50 70 Q40 75 35 85 Q32 90 28 85 Q25 80 30 75 Q40 65 50 55 Q60 45 70 35" 
+        fill="url(#visserGradient)" 
+        stroke="none"/>
+  
+  <!-- Secondary flowing element -->
+  <path d="M25 45 Q35 35 50 40 Q65 45 75 35 Q80 32 82 38 Q84 44 78 50 Q68 60 55 65 Q45 68 40 75 Q38 78 36 75 Q34 72 38 68 Q45 62 55 55 Q65 48 72 42" 
+        fill="url(#visserGradient)" 
+        opacity="0.7"
+        stroke="none"/>
+</svg> 
